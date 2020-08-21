@@ -11,7 +11,6 @@ class App extends Component {
   }
 
   componentWillMount(){
-   // this.getchartData(); // this should be this.getChartData();
     this.getChartData();
   }
 
